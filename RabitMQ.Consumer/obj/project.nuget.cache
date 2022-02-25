@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kGtd7xHF47i7y0wOUckq25dIvzVjKRfpw5ndC+FfABg3YYSKrD4VouDncZaEDEvHyup394MiTk1WaM2lvSgiSg==",
+  "dgSpecHash": "eeY2s0Vxb4DtVIbr3h4W95GQ13g7s+zQK6shC/XP0pTi2o1yz1I3+yPura/yx6BwcOEepU3nuBQWSASUMC6QeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kasun\\source\\repos\\RabitMQ\\RabitMQ.Consumer\\RabitMQ.Consumer.csproj",
+  "projectFilePath": "C:\\Users\\kasun\\source\\RabbitMQ-Consumer-Producer\\RabitMQ.Consumer\\RabitMQ.Consumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kasun\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\kasun\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",

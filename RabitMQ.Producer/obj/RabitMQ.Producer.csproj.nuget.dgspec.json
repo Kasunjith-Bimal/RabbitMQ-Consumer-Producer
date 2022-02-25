@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kasun\\source\\repos\\RabitMQ\\RabitMQ\\RabitMQ.Producer.csproj": {}
+    "C:\\Users\\kasun\\source\\RabbitMQ-Consumer-Producer\\RabitMQ.Producer\\RabitMQ.Producer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kasun\\source\\repos\\RabitMQ\\RabitMQ\\RabitMQ.Producer.csproj": {
+    "C:\\Users\\kasun\\source\\RabbitMQ-Consumer-Producer\\RabitMQ.Producer\\RabitMQ.Producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kasun\\source\\repos\\RabitMQ\\RabitMQ\\RabitMQ.Producer.csproj",
+        "projectUniqueName": "C:\\Users\\kasun\\source\\RabbitMQ-Consumer-Producer\\RabitMQ.Producer\\RabitMQ.Producer.csproj",
         "projectName": "RabitMQ.Producer",
-        "projectPath": "C:\\Users\\kasun\\source\\repos\\RabitMQ\\RabitMQ\\RabitMQ.Producer.csproj",
+        "projectPath": "C:\\Users\\kasun\\source\\RabbitMQ-Consumer-Producer\\RabitMQ.Producer\\RabitMQ.Producer.csproj",
         "packagesPath": "C:\\Users\\kasun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kasun\\source\\repos\\RabitMQ\\RabitMQ\\obj\\",
+        "outputPath": "C:\\Users\\kasun\\source\\RabbitMQ-Consumer-Producer\\RabitMQ.Producer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kasun\\AppData\\Roaming\\NuGet\\NuGet.Config",
